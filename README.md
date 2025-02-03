@@ -1,6 +1,6 @@
 ## Oiii eu sou o Lucas Person, estudante na área da programação e tecnologia!
 
-(https://github-readme-stats.vercel.app/api?username=LucasPersonS)](https://github.com/LucasPersonS/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=LucasPersonS
 
 
 <div style="display: inline_block"><br>
